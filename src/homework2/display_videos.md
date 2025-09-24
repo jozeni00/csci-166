@@ -1,1 +1,1 @@
-<a href="../ALE_Atlantis2-v5-best_4-20250924-1700-test_epsdec10000_rs1000_sync500-episode-0.mp4"></a>
+<img src="docs/thumb_-20.png" width="120"/> | <a href="[https://everestso.github.io/summer25/ALE_Pong-v5-best_-20-test_epsdec150000_rs10000_sync1000-episode-1.mp4](https://github.com/jozeni00/csci-166/blob/main/src/homework2/ALE_Atlantis2-v5-best_4-20250924-1700-test_epsdec10000_rs1000_sync500-episode-0.mp4)"
